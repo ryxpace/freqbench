@@ -1,0 +1,2 @@
+Kernel: Linux version 4.14.357-perf-gdf06d6237418-dirty (Ryx@Lab-322) (Android (14488419, +pgo, +bolt, +lto, +mlgo, based on r584948) clang version 22.0.0, LLD 22.0.0 (/mnt/disks/build-disk/src/googleplex-android/llvm-r584948-release/out/llvm-project/llvm 2d65e4108033380e6fe8e08b1f1826cd2bfb0c99)) #1 SMP PREEMPT Tue Jun 9 13:03:22 WIT 2026
+Python: Python 3.8.5
